@@ -14,9 +14,5 @@ An end-to-end AWS pipeline to fetch stock data using yfinance, store in S3, trig
 3. Lambda starts Glue Job.
 4. Glue job cleans and writes processed data to S3.
 
-## 📂 Folder Structure
-See project structure above.
 
-## 🔧 TODO
-- [ ] Add Terraform/CDK for infra setup
-- [ ] Add Athena/QuickSight for analytics
+
